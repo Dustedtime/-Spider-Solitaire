@@ -1,1 +1,3 @@
-# -Spider-Solitaire
+# -Spider-Solitaire  
+字符串界面低配版蜘蛛纸牌  
+没有难度设置，随机发牌，有相当概率出现无法获胜情况，可玩性不高  
